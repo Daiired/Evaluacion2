@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Evaluacion2</string>
+    <string name="title_activity_crear">Crear</string>
+    <string name="botonCrear1">+ Crear</string>
+    <string name="botonCrear2"> Crear</string>
+</resources>

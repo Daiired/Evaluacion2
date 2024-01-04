@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Evaluacion2</string>
+    <string name="title_activity_crear">Create</string>
+    <string name="botonCrear1">+ Create</string>
+    <string name="botonCrear2">Create</string>
+</resources>
